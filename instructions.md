@@ -9,7 +9,7 @@
 
 ### Finished?
 
-- Bring your finished script up to your teacher during Teacher Time today
+- Show your teacher your finished script during Teacher Time today
 
 
 ### Your Tasks
