@@ -34,6 +34,7 @@
 ### Task 3
 
 - Write a simple script that uses a CONSTANT named EXCHANGE_RATE to convert U.S. dollars to Euros
+  - NOTE: Do not set up the exchange rate as a variable -- set it up as a CONSTANT!
 - Assume that one (1) U.S. dollar is equivalent to 0.90 Euros
 - Prompt the user for their first name
 - Use an f-string to welcome the user by first name to your conversion app
